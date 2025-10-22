@@ -1,6 +1,5 @@
 # Github Stats
 
-![RiziqStankovic's github stats](https://github-readme-stats.vercel.app/api?username=RiziqStankovic&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiziqStankovic&layout=compact)](https://github.com/RiziqStankovic/github-readme-stats)
 
