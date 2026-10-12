@@ -5,7 +5,6 @@
   <p>
     <a href="https://github.com/RiziqStankovic?tab=followers"><img src="https://img.shields.io/github/followers/RiziqStankovic?label=Followers&style=for-the-badge&color=0891B2&labelColor=0F172A" alt="GitHub followers" /></a>
     <a href="https://github.com/RiziqStankovic?tab=repositories"><img src="https://img.shields.io/github/stars/RiziqStankovic?affiliations=OWNER&label=Stars&style=for-the-badge&color=0891B2&labelColor=0F172A" alt="GitHub stars" /></a>
-    <img src="https://komarev.com/ghpvc/?username=RiziqStankovic&label=Profile%20views&color=0891B2&style=for-the-badge" alt="Profile views" />
   </p>
 </div>
 
