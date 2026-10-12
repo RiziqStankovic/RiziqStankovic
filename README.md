@@ -15,11 +15,10 @@
 - 🚀 Exploring **web development, backend systems, mobile apps, and AI**.
 - 📫 Find my work and follow my journey here on GitHub.
 
-## GitHub statistics
+## GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RiziqStankovic&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&bg_color=0F172A" alt="Riziq's GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=RiziqStankovic&hide_border=true&background=0F172A&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&sideNums=F8FAFC&currStreakNum=F8FAFC" alt="GitHub contribution streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiziqStankovic&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=F59E0B&area=true&area_color=0891B2&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 <div align="center">
